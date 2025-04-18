@@ -392,6 +392,8 @@
       )
     0
     (set-time! (-> self state-time))
+    (format #t "Yakow Test2 !~%") ; Affiche dans le terminal du jeu
+    
     )
   :exit (behavior ()
     '()

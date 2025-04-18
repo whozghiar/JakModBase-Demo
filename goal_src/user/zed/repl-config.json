@@ -1,11 +1,13 @@
 {
   "numConnectToTargetAttempts": 1,
   "jak1": {
+    "gameVersionFolder": "jak1",
     "asmFileSearchDirs": [
       "goal_src/jak1"
     ]
   },
   "jak2": {
+    "gameVersionFolder": "jak2",
     "asmFileSearchDirs": [
       "goal_src/jak2"
     ]
